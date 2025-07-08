@@ -1,7 +1,0 @@
- opencv-python-headless==4.9.0
-    opencv-contrib-python-headless==4.9.0
-    dlib==19.24.0
-    numpy==1.26.4
-    streamlit==1.36.0
-pillow==10.4.0
-numpy==1.26.4
